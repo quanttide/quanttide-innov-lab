@@ -1,0 +1,9 @@
+{
+  "name": "quanttide-innov",
+  "version": "0.0.1",
+  "description": "Shared data models for innovation lab PoCs",
+  "type": "module",
+  "main": "model.js",
+  "files": ["*.js"],
+  "license": "Apache-2.0"
+}
